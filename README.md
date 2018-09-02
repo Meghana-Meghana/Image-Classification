@@ -4,6 +4,8 @@
 
 In this project we have a dataset containing different images of cats and dogs. There are 5000 images of both cats and dogs. We need to use these 10000 images to train the neural network model to predict whether the image is that of a cat or a dog.
 
+<img src="https://github.com/Meghana-Meghana/Image-Classification-Problem/blob/master/Cats-Dogs.gif" width="600" height="400">
+
 **Model used:** Convolutional Neural Network.
 
 **Tools Used:** TensorFlow, Keras and Numpy
